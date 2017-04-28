@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1493362958" tv-usec="495198" name="insert file">
+    <StatefulDiffCommand obj-id="6999" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7028"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1088,000000">
+        <Selection>
+          <RouteView id="6858"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1090,000000">
+        <Selection>
+          <RouteView id="6957"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362960" tv-usec="84723" name="insert file">
+    <StatefulDiffCommand obj-id="7098" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7127"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1090,000000">
+        <Selection>
+          <RouteView id="6957"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1154,000000">
+        <Selection>
+          <RouteView id="7056"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362962" tv-usec="287467" name="insert file">
+    <StatefulDiffCommand obj-id="7197" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7226"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1154,000000">
+        <Selection>
+          <RouteView id="7056"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1218,000000">
+        <Selection>
+          <RouteView id="7155"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362963" tv-usec="97211" name="insert file">
+    <StatefulDiffCommand obj-id="7296" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7325"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1218,000000">
+        <Selection>
+          <RouteView id="7155"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1282,000000">
+        <Selection>
+          <RouteView id="7254"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362963" tv-usec="899913" name="insert file">
+    <StatefulDiffCommand obj-id="7395" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7424"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1282,000000">
+        <Selection>
+          <RouteView id="7254"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1346,000000">
+        <Selection>
+          <RouteView id="7353"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362966" tv-usec="15335" name="insert file">
+    <StatefulDiffCommand obj-id="7494" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7523"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1346,000000">
+        <Selection>
+          <RouteView id="7353"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1410,000000">
+        <Selection>
+          <RouteView id="7452"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362969" tv-usec="359551" name="insert file">
+    <StatefulDiffCommand obj-id="7593" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7622"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1410,000000">
+        <Selection>
+          <RouteView id="7452"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1474,000000">
+        <Selection>
+          <RouteView id="7551"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362970" tv-usec="303443" name="insert file">
+    <StatefulDiffCommand obj-id="7692" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7721"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1474,000000">
+        <Selection>
+          <RouteView id="7551"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1538,000000">
+        <Selection>
+          <RouteView id="7650"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362971" tv-usec="496574" name="insert file">
+    <StatefulDiffCommand obj-id="7791" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7820"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1538,000000">
+        <Selection>
+          <RouteView id="7650"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1602,000000">
+        <Selection>
+          <RouteView id="7749"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362972" tv-usec="609628" name="insert file">
+    <StatefulDiffCommand obj-id="7890" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="7919"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1602,000000">
+        <Selection>
+          <RouteView id="7749"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1666,000000">
+        <Selection>
+          <RouteView id="7848"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362975" tv-usec="547730" name="insert file">
+    <StatefulDiffCommand obj-id="7989" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8018"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1666,000000">
+        <Selection>
+          <RouteView id="7848"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1730,000000">
+        <Selection>
+          <RouteView id="7947"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362976" tv-usec="638679" name="insert file">
+    <StatefulDiffCommand obj-id="8088" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8117"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1730,000000">
+        <Selection>
+          <RouteView id="7947"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1794,000000">
+        <Selection>
+          <RouteView id="8046"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362978" tv-usec="822315" name="insert file">
+    <StatefulDiffCommand obj-id="8187" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8216"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1794,000000">
+        <Selection>
+          <RouteView id="8046"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1858,000000">
+        <Selection>
+          <RouteView id="8145"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362980" tv-usec="112382" name="insert file">
+    <StatefulDiffCommand obj-id="8286" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8315"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1858,000000">
+        <Selection>
+          <RouteView id="8145"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1922,000000">
+        <Selection>
+          <RouteView id="8244"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362982" tv-usec="173001" name="insert file">
+    <StatefulDiffCommand obj-id="8385" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8414"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1922,000000">
+        <Selection>
+          <RouteView id="8244"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1986,000000">
+        <Selection>
+          <RouteView id="8343"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362984" tv-usec="479211" name="insert file">
+    <StatefulDiffCommand obj-id="8484" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8513"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="1986,000000">
+        <Selection>
+          <RouteView id="8343"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2050,000000">
+        <Selection>
+          <RouteView id="8442"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362986" tv-usec="241368" name="insert file">
+    <StatefulDiffCommand obj-id="8583" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8612"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2050,000000">
+        <Selection>
+          <RouteView id="8442"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2114,000000">
+        <Selection>
+          <RouteView id="8541"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362989" tv-usec="207606" name="insert file">
+    <StatefulDiffCommand obj-id="8682" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8711"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2114,000000">
+        <Selection>
+          <RouteView id="8541"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2178,000000">
+        <Selection>
+          <RouteView id="8640"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362990" tv-usec="253825" name="insert file">
+    <StatefulDiffCommand obj-id="8781" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8810"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2178,000000">
+        <Selection>
+          <RouteView id="8640"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2242,000000">
+        <Selection>
+          <RouteView id="8739"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1493362991" tv-usec="454241" name="insert file">
+    <StatefulDiffCommand obj-id="8880" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="8909"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="40" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2242,000000">
+        <Selection>
+          <RouteView id="8739"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="19456" left-frame="0" y-origin="2306,000000">
+        <Selection>
+          <RouteView id="8838"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
